@@ -55,7 +55,7 @@ const mouthRadius = 140;
 //     .endAngle(Math.PI * 3 / 2);
 //   return <path d = {mouthArc()}/>
 // };
-
+//在main分支的操作
 const App = () => (
   <svg width={width} height={height}>
     <g transform={`translate(${centerX},${centerY})`}>
